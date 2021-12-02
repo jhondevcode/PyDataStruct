@@ -1,4 +1,4 @@
-from simple_list import SimpleNode
+from ds_simple_list import SimpleNode
 
 """
 This module defines classes to simulate the operation of a stack and
