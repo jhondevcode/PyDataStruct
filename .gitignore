@@ -1,0 +1,5 @@
+bin/
+lib/
+Lib/
+Scripts/
+pyvenv.cfg
