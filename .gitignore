@@ -1,5 +1,7 @@
+.idea/
 bin/
 lib/
 Lib/
 Scripts/
 pyvenv.cfg
+src/__pycache__/
